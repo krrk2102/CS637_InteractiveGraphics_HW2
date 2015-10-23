@@ -1,0 +1,7 @@
+This is homework 2 for CS 637, by Shangqi Wu. This program is written on virtual machine provided by the course. 
+
+Both 2 parts mentioned in the homework 2 are implemented, with source code file named part1.cpp and part2.cpp respectively. The first part generates the same image as homework instruction provided, while the second part generates recursively divided triangles, a square, and a pentagon. 
+
+To compile the first part of program, please type "make" in command line. The second part will compile by typing "make part2". Compiled executable files will be named part1 and part2 respectively. 
+
+There are also clean commands for makefile. "make clean" will remove part1 executable file, "make clean2" will remove part2 executable file, while "make clean_all" will remove both executable files. 
